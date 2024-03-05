@@ -1,0 +1,11 @@
+/* Contact.css */
+/* Contact.css */
+.form-container {
+  max-width: 600px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Añade más estilos según sea necesario */

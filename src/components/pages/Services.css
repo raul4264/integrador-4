@@ -1,0 +1,12 @@
+.services-container {
+  max-width: 300px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  color: azure;
+  margin-top: 5rem;
+}
+.h2 {
+  color: aquamarine;
+}
